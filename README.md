@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+GitHub Get Started
